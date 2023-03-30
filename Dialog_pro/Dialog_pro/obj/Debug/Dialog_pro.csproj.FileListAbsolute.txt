@@ -1,0 +1,11 @@
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\bin\Debug\Dialog_pro.exe.config
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\bin\Debug\Dialog_pro.exe
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\bin\Debug\Dialog_pro.pdb
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.csproj.AssemblyReference.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.csproj.SuggestedBindingRedirects.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.Form1.resources
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.Properties.Resources.resources
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.csproj.GenerateResource.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.exe
+C:\Users\anast\OneDrive\Desktop\Projects created by me from Udemy\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.pdb
